@@ -40,9 +40,5 @@ public class App {
         flight2.printFlightDetails();
         flight3.printFlightDetails();
 
-
-
-
-
     }
 }
